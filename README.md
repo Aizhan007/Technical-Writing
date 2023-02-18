@@ -86,4 +86,4 @@
   7. Enter the code from the SMS.
 
 ### Limitations:
-* Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.
+* Minimum amount of money you can transfer is 1500 tenge, maximum is 2 million tenge.,
